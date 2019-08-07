@@ -7,3 +7,5 @@ Parameters for training were:<br/>
 1)epochs:50<br/>
 2)batch size = 1<br/>
 3)steps in each epoch = 1300<br/>
+Results are shown using images having the name starting with 'result' in this repo.<br/>
+Images having name starting with 'EarlyResult' show the results obtained from the weights of ImageNet(which had a class 'Cow').
